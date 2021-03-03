@@ -39,5 +39,13 @@
 alert(factorial(numberFactorial));
 ```
 
+## Education:
+* HTML/CSS at http://htmlbook.ru/
+* JavaScript at http://learn.javascript.ru/
+* JavaScript at https://wayup.in/
+* JavaScript at http://codewars.com/
 
 
+## Level of English:
+
+* A2 Pre-Intermediate
